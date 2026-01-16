@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring boot and Django frameworks<br>👯 I’m looking to collaborate on Fullstack development<br>🌱 I’m currently learning System design<br>💬 Ask me about Java, Python & System design
+🔭 I’m currently working on Spring boot and React frameworks<br>👯 I’m looking to collaborate on Fullstack development<br>🌱 I’m currently learning System design<br>💬 Ask me about Java, Python & System design
 
 
 ## 🌐 Socials:
